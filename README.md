@@ -13,10 +13,8 @@
     </table>
 </body>
 
-# Tugas Pratikum 04
-## PHP MODULAR
-### Hasil
-![image](Image/2023-04-17%20(1).png)
+# Tugas Pratikum 07
+## PHP Framework (Codeigniter)
 
 
 # END
