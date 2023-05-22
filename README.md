@@ -15,7 +15,9 @@
 
 # Tugas Pratikum 07
 ## PHP Framework (Codeigniter)
-
+### Hasil
+![Image](Image/halaman_about.png)<p>
+![Image](Image/halaman_aartikel.png)
 
 # END
 ![Gambar 13](Image/anime-love.gif)
