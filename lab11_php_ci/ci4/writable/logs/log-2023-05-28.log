@@ -1,0 +1,118 @@
+CRITICAL - 2023-05-28 06:17:41 --> Invalid file: "contact.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contact.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contact', [], true)
+ 3 APPPATH\Controllers\Page.php(18): view('contact', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->contact()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-05-28 06:23:32 --> Invalid file: "artikel.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('artikel', [], true)
+ 3 APPPATH\Controllers\Page.php(24): view('artikel', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->artikel()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-05-28 06:23:40 --> Invalid file: "artikel.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('artikel', [], true)
+ 3 APPPATH\Controllers\Page.php(24): view('artikel', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->artikel()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-05-28 06:27:32 --> Invalid file: "contact.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contact.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contact', [], true)
+ 3 APPPATH\Controllers\Page.php(18): view('contact', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->contact()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-05-28 06:29:40 --> Invalid file: "contact.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contact.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contact', [], true)
+ 3 APPPATH\Controllers\Page.php(18): view('contact', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->contact()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-05-28 06:33:48 --> Undefined variable $content
+in APPPATH\Views\contact.php on line 14.
+ 1 APPPATH\Views\contact.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $content', 'C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\app\\Views\\contact.php', 14)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\app\\Views\\contact.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contact', [], true)
+ 5 APPPATH\Controllers\Page.php(18): view('contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-05-28 06:36:25 --> Undefined variable $content
+in APPPATH\Views\contact.php on line 14.
+ 1 APPPATH\Views\contact.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $content', 'C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\app\\Views\\contact.php', 14)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\app\\Views\\contact.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contact', [], true)
+ 5 APPPATH\Controllers\Page.php(18): view('contact', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Page->contact()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\public\\index.php')
+ERROR - 2023-05-28 08:09:48 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'ci4' in C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'ci4', 3306, '', 0)
+#1 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\app\Controllers\Artikel.php(36): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\CodeIgniter.php(934): App\Controllers\Artikel->admin_index()
+#8 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+#9 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'ci4' in C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\app\Controllers\Artikel.php(36): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\CodeIgniter.php(934): App\Controllers\Artikel->admin_index()
+#7 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+#8 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Pemograman_web2\lab11_php_ci\ci4\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-28 08:09:48 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'ci4'
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `artikel`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Artikel.php(36): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->admin_index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Pemograman_web2\\lab11_php_ci\\ci4\\public\\index.php')
