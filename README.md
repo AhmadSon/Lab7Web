@@ -13,11 +13,14 @@
     </table>
 </body>
 
-# Tugas Pratikum 07
+# Tugas Pratikum 07, 08, dan 09
 ## PHP Framework (Codeigniter)
 ### Hasil
 ![Image](Image/halaman_about.png)<p>
-![Image](Image/halaman_aartikel.png)
+![Image](Image/halaman_aartikel.png)<p>
+![Image](Image/login.png)<p>
+![Image](Image/admin.png)<p>
+![Image](Image/tambah_artikel.png)
 
 # END
 ![Gambar 13](Image/anime-love.gif)
